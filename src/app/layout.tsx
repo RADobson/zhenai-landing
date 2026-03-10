@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "ZhenAI — AI-Powered Practice Management for TCM",
+  title: "DeQi — AI-Powered Practice Management for TCM",
   description:
     "The first practice management platform built by an acupuncturist. AI tongue diagnosis, herbal prescribing, SOAP notes from audio, and more.",
   keywords: [
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "traditional Chinese medicine",
   ],
   openGraph: {
-    title: "ZhenAI — AI-Powered Practice Management for TCM",
+    title: "DeQi — AI-Powered Practice Management for TCM",
     description:
       "Built by a practitioner with 15 years of clinical experience. AI tongue diagnosis, herbal prescribing, pattern synthesis.",
     type: "website",
