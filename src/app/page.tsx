@@ -173,7 +173,7 @@ function Hero() {
                 <div className="w-3 h-3 rounded-full bg-red-500/50" />
                 <div className="w-3 h-3 rounded-full bg-yellow-500/50" />
                 <div className="w-3 h-3 rounded-full bg-green-500/50" />
-                <span className="ml-2 text-xs text-neutral-500 font-mono">deqi — patient view</span>
+                <span className="ml-2 text-xs text-neutral-500 font-mono">consultresults — patient view</span>
               </div>
               <div className="p-6 space-y-4">
                 <div className="flex items-center gap-3">
@@ -649,7 +649,7 @@ function Founder() {
             </blockquote>
 
             <p className="text-neutral-400 leading-relaxed mb-4">
-              DeQi isn&apos;t a generic EHR with a TCM skin. Every feature — from tongue diagnosis to pattern synthesis to herbal prescribing — was designed by someone who&apos;s actually palpated a wiry pulse and debated whether it&apos;s Liver Qi Stagnation or Liver Fire Rising.
+              Consult Results isn&apos;t a generic EHR with a TCM skin. Every feature — from tongue diagnosis to pattern synthesis to herbal prescribing — was designed by someone who&apos;s actually palpated a wiry pulse and debated whether it&apos;s Liver Qi Stagnation or Liver Fire Rising.
             </p>
 
             <p className="text-neutral-400 leading-relaxed">
@@ -708,7 +708,7 @@ function Footer() {
         <div className="section-divider mt-8 mb-6" />
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-neutral-600">
-          <p>&copy; {new Date().getFullYear()} DeQi. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Consult Results. All rights reserved.</p>
           <div className="flex gap-6">
             <span className="hover:text-neutral-400 cursor-pointer transition-colors">Privacy</span>
             <span className="hover:text-neutral-400 cursor-pointer transition-colors">Terms</span>
